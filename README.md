@@ -8,22 +8,46 @@
 </p>
 
 ---
+<table>
+  <tr>
+    <!-- Right Aligned GIF -->
+    <td valign="top" width="50%">
+      <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="400" />
+    </td>
+    <!-- Content on the Left -->
+    <td valign="top" width="50%">
+      <h3>🧐 More About Me:</h3>
+      <ul>
+        <li>🔭 I’m currently working as a <strong>Backend Engineer at Paritie</strong></li>
+        <li>🌱 I’m currently learning <strong>NoSQL databases</strong> 🚀</li>
+        <li>👯 I’m looking to collaborate on <strong>open-source projects</strong></li>
+        <li>💬 Ask me about <strong>Python, cloud computing, and machine learning</strong></li>
+        <li>📫 Reach me at <strong><a href="mailto:akolo.jonah.kutsa@gmail.com">akolo.jonah.kutsa@gmail.com</a></strong></li>
+        <li>⚡ Fun fact: <strong>I love to attend tech meetups and hackathons</strong></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="400" />
+<br/>
+<h3 align="center">📊 My Github Stats</h3>
 
-### 🧐 More About Me:
-- 🔭 I’m currently working as a **Backend Engineer at Paritie**
-- 🌱 I’m currently learning **NoSQL databases** 🚀
-- 👯 I’m looking to collaborate on **open-source projects**
-- 💬 Ask me about **Python, cloud computing, and machine learning**
-- 📫 Reach me at **[akolo.jonah.kutsa@gmail.com](mailto:akolo.jonah.kutsa@gmail.com)**
-- ⚡ Fun fact: **I love to attend tech meetups and hackathons**
+<!-- GitHub stats grid -->
+<table>
+  <tr>
+    <!-- GitHub Stats Card -->
+    <td align="center" width="50%">
+      <b>GitHub Stats</b><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ephraim-akolo&show_icons=true&theme=algolia" alt="Ephraim's Github Stats" />
+    </td>
+    <!-- Contribution Streak -->
+    <td align="center" width="50%">
+      <b>Contribution Streak</b><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ephraim-akolo&theme=dark" alt="Ephraim's GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
-### 📊 My Github Stats:
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ephraim-akolo&show_icons=true&theme=algolia" alt="Ephraim's Github Stats" />
-</p>
 
 ### 💻 Tech Stack:
 
@@ -59,12 +83,65 @@
 ### 📚 Continuous Learning:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
+---
+
+
+### 🌟 Open Source Contribution: Tronpy
+
+[![Tronpy](https://img.shields.io/github/stars/andelf/tronpy?style=social)](https://github.com/andelf/tronpy) [![Forks](https://img.shields.io/github/forks/andelf/tronpy?style=social)](https://github.com/andelf/tronpy/network/members) [![Issues](https://img.shields.io/github/issues/andelf/tronpy)](https://github.com/andelf/tronpy/issues)
+
+I am an active contributor to **Tronpy**, an innovative Python library aimed at simplifying interactions with the TRON blockchain. This library is essential for developers looking to integrate TRON's functionalities into their applications, from creating DApps to querying blockchain data.
+
+#### My Contributions:
+- **Enhancements and Fixes**: Contributed several enhancements and bug fixes, improving the library's reliability and performance.
+- **Documentation**: Helped in updating and refining the project documentation to make it more user-friendly for new developers.
+
+
+#### Getting Started with Tronpy:
+To start using Tronpy in your projects, install it via pip:
+```bash
+pip install tronpy
+```
+---
+
+### 🤖 Previous Experience as a Machine Learning Engineer
+
+I have used many tools and technologies as a Machine Learning Engineer. These helped me build and run smart systems. Here are the tools and platforms I worked with a lot:
+
+#### 🧠 Core ML Libraries:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+#### 📊 Data Visualization:
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+
+#### 🗃️ Data Manipulation:
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+#### 🧮 Machine Learning Platforms:
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+#### 🔄 Model Deployment:
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+These tools were key in my job as a Machine Learning Engineer to handle data, make models, and put solutions to use.
+
+
 
 ### 🤝 Connect with me:
 
-<a href="https://twitter.com/your-twitter"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/your-twitter?style=social"></a>
+<a href="https://x.com/AkoloJonah?t=5NpllaG6vDGwBLGVS_BpgQ&s=09"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/akolojonah?style=social"></a>
 <a href="https://github.com/ephraim-akolo"><img src="https://img.shields.io/github/followers/ephraim-akolo?label=Follow&style=social" alt="Follow on GitHub"></a>
 
 ---
