@@ -10,10 +10,6 @@
 ---
 <table>
   <tr>
-    <!-- Right Aligned GIF -->
-    <td valign="top" width="50%">
-      <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="400" />
-    </td>
     <!-- Content on the Left -->
     <td valign="top" width="50%">
       <h3>🧐 More About Me:</h3>
@@ -25,6 +21,10 @@
         <li>📫 Reach me at <strong><a href="mailto:akolo.jonah.kutsa@gmail.com">akolo.jonah.kutsa@gmail.com</a></strong></li>
         <li>⚡ Fun fact: <strong>I love to attend tech meetups and hackathons</strong></li>
       </ul>
+    </td>
+    <!-- Right Aligned GIF -->
+    <td valign="top" width="50%">
+      <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="400" />
     </td>
   </tr>
 </table>
