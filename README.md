@@ -48,7 +48,6 @@
   </tr>
 </table>
 
-
 ### 💻 Tech Stack:
 
 #### 🛠️ Programming Languages:
