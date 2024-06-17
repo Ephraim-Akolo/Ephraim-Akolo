@@ -17,7 +17,7 @@
         <li>🔭 I’m currently working as a <strong>Backend Engineer at Paritie</strong></li>
         <li>🌱 I’m currently learning <strong>Kubernetes</strong> 🚀</li>
         <li>👯 I’m looking to collaborate on <strong>open-source projects</strong></li>
-        <li>💬 Ask me about <strong>Python, cloud computing, and machine learning</strong></li>
+        <li>💬 Ask me about <strong>Python, cloud computing, blockchain technology, and machine learning</strong></li>
         <li>📫 Reach me at <strong><a href="mailto:akolo.jonah.kutsa@gmail.com">akolo.jonah.kutsa@gmail.com</a></strong></li>
         <li>⚡ Fun fact: <strong>I love to attend tech meetups and hackathons</strong></li>
       </ul>
