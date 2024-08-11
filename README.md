@@ -93,25 +93,43 @@
 ---
 
 
-### 🌟 Open Source Contribution: Tronpy
+### 🌟 Open Source Contribution: 
+
+#### Tronpy
 
 [![Tronpy](https://img.shields.io/github/stars/andelf/tronpy?style=social)](https://github.com/andelf/tronpy) [![Forks](https://img.shields.io/github/forks/andelf/tronpy?style=social)](https://github.com/andelf/tronpy/network/members) [![Issues](https://img.shields.io/github/issues/andelf/tronpy)](https://github.com/andelf/tronpy/issues)
 
-I am an active contributor to **Tronpy**, an innovative Python library aimed at simplifying interactions with the TRON blockchain. This library is essential for developers looking to integrate TRON's functionalities into their applications, from creating DApps to querying blockchain data.
+I actively contribute to **Tronpy**, an innovative Python library that simplifies interactions with the TRON blockchain. This library is essential for developers looking to integrate TRON's functionalities into their applications, from creating DApps to querying blockchain data.
 
-#### My Contributions:
-- **Enhancements and Fixes**: Contributed several enhancements and bug fixes, improving the library's reliability and performance.
-- **Documentation**: Helped in updating and refining the project documentation to make it more user-friendly for new developers.
+__My Contributions:__
+- **Enhancements and Fixes**: Contributed to several enhancements and bug fixes, including support for HD wallets, JWT authentication for Trongrid, and code fixes, improving the library's reliability and performance.
+- **Documentation**: Helped update and refine the project documentation to make it more user-friendly for new developers.
 
-
-#### Getting Started with Tronpy:
+__Getting Started with Tronpy:__
 To start using Tronpy in your projects, install it via pip:
 ```bash
 pip install tronpy
 ```
+
+#### Easymobile
+
+[![Tronpy](https://img.shields.io/github/stars/ephraim-akolo/EASYMOBILE?style=social)](https://github.com/ephraim-akolo/EASYMOBILE) [![Forks](https://img.shields.io/github/forks/ephraim-akolo/EASYMOBILE?style=social)](https://github.com/ephraim-akolo/EASYMOBILE/network/members) [![Issues](https://img.shields.io/github/issues/ephraim-akolo/EASYMOBILE)](https://github.com/ephraim-akolo/EASYMOBILE/issues)
+
+I am the author and maintainer of the **EASYMOBILE** package. This Python package provides a simple interface for integrating with the ![EASYMOBILE](https://b2b.eazymobile.ng/api/developer/v1/documentation/start#) API, allowing users to purchase airtime, data, cable subscriptions, etc. This package is designed to streamline interaction with the EASYMOBILE API and offers methods to handle various operations, such as fetching available services, purchasing services, and checking transaction statuses.
+
+__My Contributions:__
+- **Authur and Maintainer**: Add support for all account endpoints, including airtime, data, and cable management.
+- **Documentation**: Prepared comprehensive documentation about the package and its usage to make it user-friendly for developers.
+
+
+__Getting Started with EASYMOBILE:__
+To start using EASYMOBILE in your projects, install it via pip:
+```bash
+pip install easymobile
+```
 ---
 
-### 🤖 Previous Experience as a Machine Learning Engineer
+### 🤖 Experience as a Machine Learning Engineer
 
 I have used many tools and technologies as a Machine Learning Engineer. These helped me build and run smart systems. Here are the tools and platforms I worked with a lot:
 
@@ -138,7 +156,7 @@ I have used many tools and technologies as a Machine Learning Engineer. These he
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-These tools were key in my job as a Machine Learning Engineer to handle data, make models, and put solutions to use.
+These tools were key to my job as a Machine Learning Engineer, as I handled data, created models, and applied solutions.
 
 
 
