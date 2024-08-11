@@ -115,7 +115,7 @@ pip install tronpy
 
 [![Tronpy](https://img.shields.io/github/stars/ephraim-akolo/EASYMOBILE?style=social)](https://github.com/ephraim-akolo/EASYMOBILE) [![Forks](https://img.shields.io/github/forks/ephraim-akolo/EASYMOBILE?style=social)](https://github.com/ephraim-akolo/EASYMOBILE/network/members) [![Issues](https://img.shields.io/github/issues/ephraim-akolo/EASYMOBILE)](https://github.com/ephraim-akolo/EASYMOBILE/issues)
 
-I am the author and maintainer of the **EASYMOBILE** package. This Python package provides a simple interface for integrating with the ![EASYMOBILE](https://b2b.eazymobile.ng/api/developer/v1/documentation/start#) API, allowing users to purchase airtime, data, cable subscriptions, etc. This package is designed to streamline interaction with the EASYMOBILE API and offers methods to handle various operations, such as fetching available services, purchasing services, and checking transaction statuses.
+This new Python package provides a simple interface for integrating with the <strong><a href="https://b2b.eazymobile.ng/api/developer/v1/documentation/start#">EASYMOBILE</a></strong> API, allowing users to purchase airtime, data, cable subscriptions, etc. This package is designed to streamline interaction with the EASYMOBILE API and offers methods to handle various operations, such as fetching available services, purchasing services, and checking transaction statuses.
 
 __My Contributions:__
 - **Authur and Maintainer**: Add support for all account endpoints, including airtime, data, and cable management.
