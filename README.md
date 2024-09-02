@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm <strong>Ephraim Akolo Jonah</strong>!</h1>
 <h3 align="center">A passionate Backend Engineer, Machine Learning Engineer, and Cloud Enthusiast</h3>
-<h1 class="redundant class"></h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ephraim-akolo-jonah" target="blank">
