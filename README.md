@@ -167,5 +167,5 @@ These tools were key to my job as a Machine Learning Engineer, as I handled data
 ---
 
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sky. ✨</i>
+  <i>Let's connect! Open to anything under the sky. ✨</i>
 </p>
