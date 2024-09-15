@@ -10,7 +10,7 @@
 ---
 <table>
   <tr>
-    <!-- Content on the Left -->
+    <!-- Content on the Left side-->
     <td valign="top" width="50%">
       <h3>🧐 More About Me:</h3>
       <ul>
