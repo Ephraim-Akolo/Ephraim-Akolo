@@ -24,8 +24,10 @@
     </td>
     <!-- Right Aligned GIF -->
     <td valign="top" width="50%">
-      <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="400" />
+      <img align="right" alt="Python Backend Development GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
     </td>
+
+
   </tr>
 </table>
 
