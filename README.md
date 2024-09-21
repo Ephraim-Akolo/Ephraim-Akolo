@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <strong>Ephraim Akolo Jonah</strong>!</h1>
+<h1 align="center">Hi 👋, I'm <strong> Ephraim Akolo Jonah </strong>!</h1>
 <h3 align="center">A passionate Backend Engineer, Machine Learning Engineer, and Cloud Enthusiast</h3>
 
 <p align="center">
