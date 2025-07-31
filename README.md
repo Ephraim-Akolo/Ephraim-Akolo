@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <strong> Ephraim Akolo Jonah </strong>!</h1>
-<h3 align="center">A passionate Backend Engineer, Machine Learning Engineer, and Cloud Enthusiast</h3>
+<h3 align="center">A passionate Backend Engineer, DevOps Engineer, and Machine Learning Engineer</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ephraim-akolo-jonah" target="blank">
@@ -14,7 +14,7 @@
     <td valign="top" width="50%">
       <h3>🧐 More About Me:</h3>
       <ul>
-        <li>🔭 I’m currently working as a <strong>Backend Engineer at Paritie</strong></li>
+        <li>🔭 I’m currently working as a <strong>Backend Engineer at Bitex Consulting Services</strong></li>
         <li>🌱 I’m currently learning <strong>Kubernetes</strong> 🚀</li>
         <li>👯 I’m looking to collaborate on <strong>open-source projects</strong></li>
         <li>💬 Ask me about <strong>Python, cloud computing, blockchain technology, and machine learning</strong></li>
