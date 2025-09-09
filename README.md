@@ -22,12 +22,10 @@
         <li>⚡ Fun fact: <strong>I love to attend tech meetups and hackathons</strong></li>
       </ul>
     </td>
-    <!-- Right Aligned GIF -->
-    <td valign="top" width="50%">
-      <img align="right" alt="Python Backend Development GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+    <!-- Github Languages -->
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ephraim&layout=compact&theme=default&hide=jupyter%20notebook" alt="Ephraim's Top Languages"/>
     </td>
-
-
   </tr>
 </table>
 
