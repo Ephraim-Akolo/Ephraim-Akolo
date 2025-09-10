@@ -43,7 +43,7 @@
     <!-- Contribution Streak -->
     <td align="center" width="50%">
       <b>Contribution Streak</b><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ephraim-akolo&theme=dark" alt="Ephraim's GitHub Streak"/>
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ephraim-akolo&theme=dark" alt="Ephraim's GitHub Streak"/>
     </td>
   </tr>
 </table>
