@@ -37,12 +37,10 @@
   <tr>
     <!-- GitHub Stats Card -->
     <td align="center" width="50%">
-      <b>GitHub Stats</b><br/>
       <img src="https://github-readme-stats.vercel.app/api?username=ephraim-akolo&show_icons=true&theme=algolia" alt="Ephraim's Github Stats" />
     </td>
     <!-- Contribution Streak -->
     <td align="center" width="50%">
-      <b>Contribution Streak</b><br/>
       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ephraim-akolo&theme=dark" alt="Ephraim's GitHub Streak"/>
     </td>
   </tr>
