@@ -17,7 +17,7 @@
         <li>🔭 I’m currently working as a <strong> Lead Backend Engineer</strong></li>
         <li>👯 I love to collaborate on <strong>open-source projects</strong></li>
         <li>💬 Ask me about <strong>Python, cloud computing, blockchain technology, and machine learning</strong></li>
-        <li>📫 Reach me at <strong><a href="mailto:akolo.jonah.kutsa@gmail.com">akolo.jonah.kutsa@gmail.com</a></strong></li>
+        <li>📫 Reach me at <strong><a href="mailto:akolo.jonah.kutsa@gmail.com">akolo.jonah.kutsa@gmail.com</a></strong> or <strong><a href="https://www.linkedin.com/in/akolo-jonah-kutsa/">linkedin.com/in/akolo-jonah-kutsa/</a></strong></li>
         <li>⚡ Fun fact: <strong>I love to attend tech meetups and hackathons</strong></li>
       </ul>
     </td>
